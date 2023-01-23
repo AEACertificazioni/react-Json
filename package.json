@@ -16,5 +16,17 @@
   },
   "devDependencies": {
     "react-scripts": "latest"
-  }
+  },
+  "description": "[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-q2ry3y)",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AEACertificazioni/react-Json.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AEACertificazioni/react-Json/issues"
+  },
+  "homepage": "https://github.com/AEACertificazioni/react-Json#readme"
 }
